@@ -8,4 +8,6 @@ backend:
 frontend:
   [+] npm start
 ```
+# Preview
+![Screenshot](https://github.com/rammahayufitra/Simple_Project1_API_Flask_ReactJS/blob/main/preview/preview.png)
 

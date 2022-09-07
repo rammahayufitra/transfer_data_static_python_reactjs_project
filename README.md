@@ -1,4 +1,4 @@
-# Simple_Project1_API_Flask_ReactJS
+# transfer_data_static_python_reactjs_project 
 Transfer data via http via Python Flask dan ReactJS
 
 # Cara Menjalankan Aplikasi 
